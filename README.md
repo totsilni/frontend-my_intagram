@@ -11,12 +11,10 @@ This project is a simplified version of Instagram, developed as part of the Qwas
 - **Follow Users**: Users can follow other users to stay updated with their posts.
 
 ## Technologies Used
-- **Backend**: `Ruby on Rails`
-- **Frontend**: `HTML`, `CSS`, `JavaScript`
-- **Database**: `PostgreSQL`
-- **Authentication**: `Devise gem`
-- **Image Storage**: `AWS S3` (for storing images)
+- **Backend**: `Firebas`
+- **Frontend**: `React js`
 
+  
 ## Setup Instructions
 1. Clone the repository to your local machine.
    ```bash
